@@ -1,3 +1,10 @@
+.bg{
+	 Background : #5133A5;
+	 flood-color: beige;
+}
+
+
+
 .row-header{
 	margin: 0px auto;
 	padding: 0px auto;
@@ -10,6 +17,7 @@
 	min-height: 400px;
 }
 
+
 footer{
 	background-color: #D1C4E9;
 	margin: 0px auto;
@@ -21,6 +29,7 @@ footer{
 	margin: 0px;
 	background-color: #9575cd;
 	color:floralwhite;
+	
 }
 
 .address{
@@ -28,4 +37,20 @@ footer{
 	margin: 0px;
 	color: #0f0f0f;
 }
+
+.jbtn{
+	
+	background-color:#FDC02F;
+	border-color:#FDC02F;
+	color:black;
+	width: 250px;
+	font-weight:Bold;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+
 
